@@ -8,5 +8,6 @@ public class MXNPesoConverter extends CurrencyConverter {
     public MXNPesoConverter() {
         super(NAME, CONVERSION_FACTOR);
     }
+
 }
 
